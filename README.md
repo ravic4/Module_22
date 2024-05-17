@@ -9,4 +9,4 @@ This homework was completed with Shah and the Tutor (from last week as well).
   4) Hit Confirm
   5) Scroll down and click the address
   6) Input a new Metamask Address
-  
+* See steps: 1-4 on Images
